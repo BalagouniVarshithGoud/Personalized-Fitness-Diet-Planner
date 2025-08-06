@@ -28,3 +28,548 @@ Vegetable Khichdi,Dinner,320,18,55,10,Veg
 Chicken Tikka,Dinner,600,40,10,15,Non-Veg
 Sprouts Chaat,Snack,220,10,30,5,Veg
 Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
+Masala Peanuts,Snack,200,8,10,12,Veg
+Greek Yogurt,Snack,100,15,8,2,Veg
+Fruit Salad,Snack,120,2,30,1,Veg
+Protein Shake,Snack,180,25,10,5,Non-Veg
+Roti Sabzi,Dinner,400,10,50,12,Veg
+Vegetable Pulao,Dinner,420,12,55,10,Veg
+Egg Curry,Dinner,450,22,20,15,Non-Veg
+Grilled Salmon,Dinner,500,50,5,20,Non-Veg
+Tofu Stir Fry,Dinner,350,20,35,8,Veg
+Dal Tadka,Dinner,380,15,45,12,Veg
+Mutton Biryani,Dinner,700,35,60,30,Non-Veg
+Vegetable Khichdi,Dinner,320,18,55,10,Veg
+Chicken Tikka,Dinner,600,40,10,15,Non-Veg
+Sprouts Chaat,Snack,220,10,30,5,Veg
+Cheese Toast,Snack,280,12,35,10,Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Dosa,Breakfast,120,3,25,2,Veg
+Puri Bhaji,Breakfast,380,7,45,20,Veg
+Scrambled Eggs,Breakfast,180,14,1,13,Non-Veg
+Fruit Smoothie,Breakfast,220,10,40,3,Veg
+Pancakes,Breakfast,250,5,35,10,Veg
+Sausage & Bacon,Breakfast,450,20,5,35,Non-Veg
+Butter Chicken,Lunch,550,30,15,40,Non-Veg
+Chicken Biryani,Lunch,650,35,50,35,Non-Veg
+Tandoori Roti & Dal,Lunch,350,15,50,8,Veg
+Palak Paneer,Lunch,420,20,15,30,Veg
+Vegetable Curry,Lunch,380,10,45,15,Veg
+Shawarma,Lunch,600,25,40,35,Non-Veg
+Nachos,Snack,300,6,30,18,Veg
+French Fries,Snack,250,3,30,13,Veg
+Hummus with Pita,Snack,280,8,35,10,Veg
+Tuna Salad,Snack,220,20,5,15,Non-Veg
+Popcorn,Snack,100,3,20,2,Veg
+Chicken Noodle Soup,Dinner,350,25,30,15,Non-Veg
+Lentil Soup,Dinner,250,12,35,5,Veg
+Roast Beef,Dinner,480,40,2,35,Non-Veg
+Stuffed Bell Peppers,Dinner,300,15,25,12,Veg
+Pasta with Marinara,Dinner,450,10,70,12,Veg
+Chicken Stir Fry,Dinner,400,30,20,20,Non-Veg
+Quinoa Salad,Dinner,320,15,40,10,Veg
+Lamb Chops,Dinner,600,45,5,40,Non-Veg
+Oatmeal,Breakfast,180,6,30,4,Veg
+Poha,Breakfast,250,5,40,10,Veg
+Idli,Breakfast,150,4,35,2,Veg
+Paneer Paratha,Breakfast,300,12,45,15,Veg
+Egg Omelette,Breakfast,200,15,2,12,Non-Veg
+Vegetable Upma,Breakfast,280,6,50,5,Veg
+Aloo Paratha,Breakfast,350,8,60,20,Veg
+Chicken Sandwich,Breakfast,400,20,50,15,Non-Veg
+Dal Chawal,Lunch,450,18,60,10,Veg
+Rajma Chawal,Lunch,500,20,65,8,Veg
+Chole Bhature,Lunch,600,12,80,30,Veg
+Grilled Chicken,Lunch,550,45,10,25,Non-Veg
+Fish Curry,Lunch,500,40,5,30,Non-Veg
+Paneer Butter Masala,Lunch,480,25,20,35,Veg
+Samosa,Snack,150,3,15,5,Veg
